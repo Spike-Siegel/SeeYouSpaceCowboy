@@ -1,0 +1,2 @@
+# SeeYouSpaceCowboy
+Python decorator work
