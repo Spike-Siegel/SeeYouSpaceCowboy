@@ -10,7 +10,6 @@ def timetest( f ):
     print "Function runtime: " + str(functime)
     return inner
 
-'''
 @timetest
 def fib(n):
     if n == 0:
@@ -19,4 +18,3 @@ def fib(n):
         return 1
     else:
         return fib(n-1)+fib(n-2)
-'''
